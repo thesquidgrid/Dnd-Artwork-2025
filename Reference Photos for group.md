@@ -1,6 +1,6 @@
 Module: tomb of annihilation
 
 ### Buchman pose photos
-Preffered:
+Preferred:
 
 secondary:
