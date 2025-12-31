@@ -1,26 +1,26 @@
-1. [[#Chree (Matts Character)|Chree (Matts Character)]]
-		1. [[#Visual Resources:|Visual Resources:]]
-		2. [[#Traits:|Traits:]]
-2. [[#Knox (Gavin's character)|Knox (Gavin's character)]]
-		1. [[#Visual Resources:|Visual Resources:]]
-		2. [[#Traits:|Traits:]]
-3. [[#Mordecai (Riley's character)|Mordecai (Riley's character)]]
-		1. [[#Visual Resources:|Visual Resources:]]
-		2. [[#Traits:|Traits:]]
-4. [[#Mudd (Crey's character)|Mudd (Crey's character)]]
-		1. [[#Visual Resources:|Visual Resources:]]
-		2. [[#Traits:|Traits:]]
-5. [[#Rhoggo (Laprades character)|Rhoggo (Laprades character)]]
-		1. [[#Visual Resources:|Visual Resources:]]
-		2. [[#Traits:|Traits:]]
-6. [[#Skiggs (Buchmans character (The main character tbh))|Skiggs (Buchmans character (The main character tbh))]]
-		1. [[#Visual Resources:|Visual Resources:]]
-		2. [[#Traits:|Traits:]]
-		3. [[#Visual Resources:|Visual Resources:]]
-		4. [[#Traits:|Traits:]]
-7. [[#Pheobe (Willows character)|Pheobe (Willows character)]]
-		1. [[#Visual Resources:|Visual Resources:]]
-		2. [[#Traits:|Traits:]]
+1. [Chree (Matts Character)](#Chree%20(Matts%20Character))
+		1. [Visual Resources:](#Visual%20Resources:)
+		2. [Traits:](#Traits:)
+2. [Knox (Gavin's character)](#Knox%20(Gavin's%20character))
+		1. [Visual Resources:](#Visual%20Resources:)
+		2. [Traits:](#Traits:)
+3. [Mordecai (Riley's character)](#Mordecai%20(Riley's%20character))
+		1. [Visual Resources:](#Visual%20Resources:)
+		2. [Traits:](#Traits:)
+4. [Mudd (Crey's character)](#Mudd%20(Crey's%20character))
+		1. [Visual Resources:](#Visual%20Resources:)
+		2. [Traits:](#Traits:)
+5. [Rhoggo (Laprades character)](#Rhoggo%20(Laprades%20character))
+		1. [Visual Resources:](#Visual%20Resources:)
+		2. [Traits:](#Traits:)
+6. [Skiggs (Buchmans character (The main character tbh))](#Skiggs%20(Buchmans%20character%20(The%20main%20character%20tbh)))
+		1. [Visual Resources:](#Visual%20Resources:)
+		2. [Traits:](#Traits:)
+		3. [Visual Resources:](#Visual%20Resources:)
+		4. [Traits:](#Traits:)
+7. [Pheobe (Willows character)](#Pheobe%20(Willows%20character))
+		1. [Visual Resources:](#Visual%20Resources:)
+		2. [Traits:](#Traits:)
 
 # Chree (Matts Character)
 ### Visual Resources:
