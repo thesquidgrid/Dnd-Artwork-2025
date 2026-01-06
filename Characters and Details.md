@@ -6,13 +6,13 @@
 		2. [Traits:](#Traits:)
 3. [Mordecai (Riley's character)](#Mordecai%20(Riley's%20character))
 		1. [Visual Resources:](#Visual%20Resources:)
-		2. [Traits:](#Traits:)
+		2. [Traits:](#Traits:) 
 4. [Mudd (Crey's character)](#Mudd%20(Crey's%20character))
 		1. [Visual Resources:](#Visual%20Resources:)
 		2. [Traits:](#Traits:)
 5. [Rhoggo (Laprades character)](#Rhoggo%20(Laprades%20character))
 		1. [Visual Resources:](#Visual%20Resources:)
-		2. [Traits:](#Traits:)
+		2. [ ] [Traits:](#Traits:)
 6. [Skiggs (Buchmans character (The main character tbh))](#Skiggs%20(Buchmans%20character%20(The%20main%20character%20tbh)))
 		1. [Visual Resources:](#Visual%20Resources:)
 		2. [Traits:](#Traits:)
@@ -138,7 +138,7 @@ Class: rouge
 Race: Owl bird girl thing
 Height:  under 5 foot 
 Quirks:
-- Chaotic Neutral
+- Chaotic Neutral  (@)
 - Flies alot
 - IDKR willow doesn't come to dnd sessions that often
 - girl swiper from dora ig?
