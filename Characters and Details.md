@@ -95,18 +95,6 @@ Quirks:
 
 
 # Skiggs (Buchmans character (The main character tbh))
-### Visual Resources:
-[https://www.heroforge.com/load_config%3D56117805/](https://www.heroforge.com/load_config%3D56117805/ "https://www.heroforge.com/load_config%3D56117805/")
-
-### Traits:
-Class: Swashbuckler Rogue
-Race: brass dragonborne
-Height: "6'7 - 6'9 ish" - Lack
-Quirks:
-- Buddies with all
-- looooooooves to drink
-- "as for attributes he's a brass dragonborn, so he's kind of got a warm gold/orange pigmentation, and he has a kind of frilly, reptillian "beard". some of which can act almost like a pipe to let off smoke or fire" - Lack
-- Rugged and tattered
 
 ### Visual Resources:
 [https://www.heroforge.com/load_config%3D56069484/](https://www.heroforge.com/load_config%3D56069484/ "https://www.heroforge.com/load_config%3D56069484/")
